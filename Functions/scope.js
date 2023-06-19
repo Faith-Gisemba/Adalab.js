@@ -5,6 +5,7 @@ function add(b){
     let c = 30 //local variable
     console.log(a + b + c);
 
+
 }
 add(20);
 
